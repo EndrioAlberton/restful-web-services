@@ -1,4 +1,4 @@
-package com.javapb.restfulwebservices.helloworld.user;
+package com.javapb.restfulwebservices.user;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
